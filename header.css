@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: lightskyblue;
+	color: white;
+}
+a{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+
+/*Header*/
+header{
+	background-color: pink;
+	color: white;
+	height: 90px;	
+}
+
+.header-logo{
+	float: left;
+	font-size: 36px;
+	padding: 20px 40px;
+}
+
+.header-nav li{
+	float: left;
+	padding: 35px 20px;
+}
+
+/*main/comtent*/
+main{
+	padding: 100px 80px;
+}
+
+.main-container h1{
+	font-size: 95px;
+}
+.main-container h2{
+	font-size: 60px;
+}
+
+/*bagian konten*/
+
+.contents{
+	height: 500px;
+	margin-top: 100px;
+
+}
+.contents h3{
+	border-bottom: 2px solid #cecece;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+
+}
+.contents-item{
+	float: left;
+	margin-right: 40px;
+}
+.contents-img{
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	background-color: ;
+}
+.mume-img{
+	margin-top: 20%;
+	margin-left: 50px;
+	position: relative;
+}
+.akun-img{
+	margin-top: 20%;
+	margin-left: 20px;
+	position: relative;
+}
+.arsitek-img{
+	margin-top: 20%;
+	margin-left: 20px;
+	position: relative;
+}
+.kep-img{
+	margin-top: 20%;
+	margin-left: 20px;
+	position: relative;
+}
+.mar-img{
+	margin-top: 20%;
+	margin-left: 20px;
+	position: relative;
+}
+.oto-img{
+	margin-top: 20%;
+	margin-left: 20px;
+	position: relative;
+}
+.contents-img img{
+	width: 500px;
+}
+.contents-sklh{
+	width: 200px;
+}
+.contents-item p{
+	font-size: 24px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+h4 {
+	margin-bottom: 20%;
+	position: relative;
+}
+h5 {
+	text-align: center;
+}
